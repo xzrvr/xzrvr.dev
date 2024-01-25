@@ -5,52 +5,65 @@
     <h1 align="center">XZRVR.DEV</h1>
 </p>
 <p align="center">
-    <em><code>► INSERT-TEXT-HERE</code></em>
+    <em>Code Power, Speed Unleashed</em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/xzrvr/xzrvr.dev?style=flat&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/xzrvr/xzrvr.dev?style=flat&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/xzrvr/xzrvr.dev?style=flat&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/xzrvr/xzrvr.dev?style=flat&color=0080ff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/xzrvr/xzrvr.dev?style=for-the-badge&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/xzrvr/xzrvr.dev?style=for-the-badge&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/xzrvr/xzrvr.dev?style=for-the-badge&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/xzrvr/xzrvr.dev?style=for-the-badge&color=0080ff" alt="repo-language-count">
 <p>
 <p align="center">
 		<em>Developed with the software and tools below.</em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" alt="HTML5">
+	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5">
 </p>
 <hr>
 
-##  Quick Links
+## 🔗 Quick Links
 
-> - [ Overview](#-overview)
-> - [ Features](#-features)
-> - [ Repository Structure](#-repository-structure)
-> - [ Modules](#-modules)
-> - [ Getting Started](#-getting-started)
->   - [ Installation](#-installation)
->   - [ Running xzrvr.dev](#-running-xzrvr.dev)
->   - [ Tests](#-tests)
-> - [ Project Roadmap](#-project-roadmap)
-> - [ Contributing](#-contributing)
-> - [ License](#-license)
-> - [ Acknowledgments](#-acknowledgments)
-
----
-
-##  Overview
-
-<code>► INSERT-TEXT-HERE</code>
+> - [📍 Overview](#-overview)
+> - [📦 Features](#-features)
+> - [📂 Repository Structure](#-repository-structure)
+> - [🧩 Modules](#-modules)
+> - [🚀 Getting Started](#-getting-started)
+>   - [⚙️ Installation](#️-installation)
+>   - [🤖 Running xzrvr.dev](#-running-xzrvr.dev)
+>   - [🧪 Tests](#-tests)
+> - [🛠 Project Roadmap](#-project-roadmap)
+> - [🤝 Contributing](#-contributing)
+> - [📄 License](#-license)
+> - [👏 Acknowledgments](#-acknowledgments)
 
 ---
 
-##  Features
+## 📍 Overview
 
-<code>► INSERT-TEXT-HERE</code>
+Error generating text for overview: Client error '429 Too Many Requests' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
 
 ---
 
-##  Repository Structure
+## 📦 Features
+
+|    |   Feature         | Description |
+|----|-------------------|---------------------------------------------------------------|
+| ⚙️  | **Architecture**  | The architecture follows a modular design, utilizing HTML and CSS. It is built with a right sidebar layout. |
+| 🔩 | **Code Quality**  | The codebase demonstrates well-structured and maintainable HTML and CSS that adhere to best practices. |
+| 📄 | **Documentation** | Limited documentation is present in the form of comments within the HTML and CSS files. More comprehensive documentation would be beneficial. |
+| 🔌 | **Integrations**  | This project relies on standard web technologies and has minimal external dependencies beyond HTML and CSS. |
+| 🧩 | **Modularity**    | The codebase demonstrates a certain level of modularity within the HTML and CSS files, allowing for potential reusability. |
+| 🧪 | **Testing**       | No specific testing frameworks or tools are evident, indicating a lack of formal testing procedures. |
+| ⚡️  | **Performance**   | The performance efficiency is likely good, given the small size and static nature of the content. |
+| 🛡️ | **Security**      | Basic security measures such as data protection and access control are not evident in the repository contents. |
+| 📦 | **Dependencies**  | Key dependencies appear to be minimal, with standard web technologies and libraries being used. |
+| 🚀 | **Scalability**   | The project might have limitations in handling increased traffic and load due to its static nature and minimal scalability considerations. |
+
+
+---
+
+## 📂 Repository Structure
 
 ```sh
 └── xzrvr.dev/
@@ -64,24 +77,29 @@
 
 ---
 
-##  Modules
+## 🧩 Modules
 
 <details closed><summary>.</summary>
 
-| File                                                                                    | Summary                         |
-| ---                                                                                     | ---                             |
-| [right-sidebar.html](https://github.com/xzrvr/xzrvr.dev/blob/master/right-sidebar.html) | <code>► INSERT-TEXT-HERE</code> |
-| [left-sidebar.html](https://github.com/xzrvr/xzrvr.dev/blob/master/left-sidebar.html)   | <code>► INSERT-TEXT-HERE</code> |
-| [LICENSE.txt](https://github.com/xzrvr/xzrvr.dev/blob/master/LICENSE.txt)               | <code>► INSERT-TEXT-HERE</code> |
-| [no-sidebar.html](https://github.com/xzrvr/xzrvr.dev/blob/master/no-sidebar.html)       | <code>► INSERT-TEXT-HERE</code> |
-| [index.html](https://github.com/xzrvr/xzrvr.dev/blob/master/index.html)                 | <code>► INSERT-TEXT-HERE</code> |
-| [README.txt](https://github.com/xzrvr/xzrvr.dev/blob/master/README.txt)                 | <code>► INSERT-TEXT-HERE</code> |
+| File                                                                                    | Summary                                                                                                                                                                                                                         |
+| ---                                                                                     | ---                                                                                                                                                                                                                             |
+| [right-sidebar.html](https://github.com/xzrvr/xzrvr.dev/blob/master/right-sidebar.html) | The code in right-sidebar.html defines the structure and styles for the right sidebar layout of xzrvr.dev repository's web pages. It leverages HTML5 UP's Escape Velocity template for a responsive design.                     |
+| [left-sidebar.html](https://github.com/xzrvr/xzrvr.dev/blob/master/left-sidebar.html)   | Error generating text for left-sidebar.html: Client error '429 Too Many Requests' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 |
+| [LICENSE.txt](https://github.com/xzrvr/xzrvr.dev/blob/master/LICENSE.txt)               | Error generating text for LICENSE.txt: Client error '429 Too Many Requests' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429       |
+| [no-sidebar.html](https://github.com/xzrvr/xzrvr.dev/blob/master/no-sidebar.html)       | Error generating text for no-sidebar.html: Client error '429 Too Many Requests' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429   |
+| [index.html](https://github.com/xzrvr/xzrvr.dev/blob/master/index.html)                 | Error generating text for index.html: Client error '429 Too Many Requests' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429        |
+| [README.txt](https://github.com/xzrvr/xzrvr.dev/blob/master/README.txt)                 | Error generating text for README.txt: Client error '429 Too Many Requests' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429        |
 
 </details>
 
 ---
 
-##  Getting Started
+## 🚀 Getting Started
 
 ***Requirements***
 
@@ -89,7 +107,7 @@ Ensure you have the following dependencies installed on your system:
 
 * **HTML**: `version x.y.z`
 
-###  Installation
+### ⚙️ Installation
 
 1. Clone the xzrvr.dev repository:
 
@@ -109,7 +127,7 @@ cd xzrvr.dev
 > INSERT-INSTALL-COMMANDS
 ```
 
-###  Running xzrvr.dev
+### 🤖 Running xzrvr.dev
 
 Use the following command to run xzrvr.dev:
 
@@ -117,7 +135,7 @@ Use the following command to run xzrvr.dev:
 > INSERT-RUN-COMMANDS
 ```
 
-###  Tests
+### 🧪 Tests
 
 To execute tests, run:
 
@@ -127,7 +145,7 @@ To execute tests, run:
 
 ---
 
-##  Project Roadmap
+## 🛠 Project Roadmap
 
 - [X] `► INSERT-TASK-1`
 - [ ] `► INSERT-TASK-2`
@@ -135,7 +153,7 @@ To execute tests, run:
 
 ---
 
-##  Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Here are several ways you can contribute:
 
@@ -172,13 +190,13 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 ---
 
-##  License
+## 📄 License
 
 This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
 
 ---
 
-##  Acknowledgments
+## 👏 Acknowledgments
 
 - List any resources, contributors, inspiration, etc. here.
 
